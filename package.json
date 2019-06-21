@@ -1,13 +1,13 @@
 {
-  "name": "login",
+  "name": "leave-the-mark-edureka",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Neha Bist Rawat",
-  "license": "ISC",
+  "author": "Amit Bidwai",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "^1.14.2",
